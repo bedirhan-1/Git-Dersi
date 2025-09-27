@@ -1,0 +1,22 @@
+.link {
+  font-size: 50px;
+  color: #007aff;
+  text-decoration: none;
+}
+
+#paragraf {
+  font-size: 32px;
+  color: #d02b2b;
+}
+
+.kutu1 {
+  width: 150px;
+  height: 150px;
+  background-color: #ef8f5c;
+  color: yellow;
+}
+
+div {
+  color: green;
+  font-size: 43px;
+}
